@@ -1,3 +1,4 @@
 *.swiftmodule
 *.swiftdoc
 *.dylib
+*.o
